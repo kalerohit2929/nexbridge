@@ -19,7 +19,7 @@ const regions = [
     label: 'Asia Pacific',
     countries: [
       'Singapore', 'Australia', 
-      'Indonesia', 'Malaysia', 'Thailand',
+      'Indonesia', 'Malaysia', 'Thailand','Hong kong',
        
     ],
     stat: '4.5B+',

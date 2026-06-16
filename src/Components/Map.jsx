@@ -14,7 +14,7 @@ const regions = [
     icon: '🌏',
     color: '#C9A84C',
     desc: 'Key business hubs across the Asia-Pacific region.',
-    cities: ['Singapore', 'Australia', 'Malaysia', 'Indonesia', 'Thailand',],
+    cities: ['Singapore', 'Australia', 'Malaysia', 'Indonesia', 'Thailand','Hong kong'],
   },
   {
     name: 'Middle East',

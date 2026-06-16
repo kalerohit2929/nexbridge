@@ -3,14 +3,14 @@ import { useEffect, useRef } from 'react'
 const industries = [
   { name: 'Technology',         icon: '💻' },
   // { name: 'SaaS',               icon: '☁️' },
-  { name: 'Healthcare',         icon: '🏥' },
-  { name: 'Banking',            icon: '🏦' },
+  { name: 'Pharmaceuticals',         icon: '🏥' },
+  { name: 'Financial Services',            icon: '🏦' },
   { name: 'Insurance',          icon: '🛡️' },
   // { name: 'Manufacturing',      icon: '🏭' },
   // { name: 'Retail',             icon: '🛒' },
   // { name: 'Logistics',          icon: '🚚' },
-  { name: 'Telecommunications', icon: '📡' },
-  { name: 'Education',          icon: '🎓' },
+  // { name: 'Telecommunications', icon: '📡' },
+  // { name: 'Education',          icon: '🎓' },
    { name: 'Recruitment & Staffing',icon: '🧑‍🤝‍🧑' },
 ]
 

@@ -3,11 +3,11 @@ import { gsap } from 'gsap'
 
 const industries = [
   { name: 'Technology',            icon: '💻' },
-  { name: 'Healthcare',            icon: '🏥' },
-  { name: 'Banking',               icon: '🏦' },
+  { name: 'Pharmaceuticals',            icon: '🏥' },
+  { name: 'Financial Services',               icon: '🏦' },
   { name: 'Insurance',             icon: '🛡️' },
-  { name: 'Telecommunications',    icon: '📡' },
-  { name: 'Education',             icon: '🎓' },
+  // { name: 'Telecommunications',    icon: '📡' },
+  // { name: 'Education',             icon: '🎓' },
   { name: 'Recruitment & Staffing',icon: '🧑‍🤝‍🧑' },
 ]
 
