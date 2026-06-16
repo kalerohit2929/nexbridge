@@ -218,13 +218,7 @@ export default function Footer() {
         <p style={{ fontSize: 'clamp(13px,2vw,14px)', color: '#4A5568', fontStyle: 'italic', fontFamily: 'Cormorant Garant, serif' }}>
           Precision Research. Proven Results.
         </p>
-        <p style={{ fontSize: 'clamp(11px,1.5vw,12px)', color: '#4A5568' }}>
-          Made by{' '}
-          <a href="https://www.instagram.com/__rohittt_29_?utm_source=qr&igsh=YjdsZjlyeXY3MzF6" target="_blank" rel="noreferrer"
-            style={{ color: '#C9A84C', textDecoration: 'none', borderBottom: '1px solid rgba(201,168,76,0.4)' }}>
-            Rohit Kale
-          </a>
-        </p>
+       
       </div>
 
     </footer>
